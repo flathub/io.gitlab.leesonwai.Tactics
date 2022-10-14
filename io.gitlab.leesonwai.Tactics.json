@@ -33,8 +33,8 @@
         {
           "type" : "git",
           "url" : "https://gitlab.com/leesonwai/tactics.git",
-          "tag" : "0.1",
-          "commit" : "8b132ebb78cbc4944d7b5b7d53f7da3d86071ade"
+          "tag" : "0.2",
+          "commit" : "095574146ac8ee0a6437e86f9ce202a5507c0a7d"
         }
       ]
     }
