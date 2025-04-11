@@ -1,7 +1,7 @@
 {
   "app-id" : "io.gitlab.leesonwai.Tactics",
   "runtime" : "org.gnome.Platform",
-  "runtime-version" : "47",
+  "runtime-version" : "48",
   "sdk" : "org.gnome.Sdk",
   "command" : "tactics",
   "finish-args" : [
@@ -33,8 +33,8 @@
         {
           "type" : "git",
           "url" : "https://gitlab.com/leesonwai/tactics.git",
-          "tag" : "0.10",
-          "commit" : "73fa6beb9fb241b16e37dd94d88fe3912f9717cc"
+          "tag" : "0.11",
+          "commit" : "3229c5275908fdd0a880295a826ec53c0c8f8eb6"
         }
       ]
     }
